@@ -12,4 +12,6 @@ Welcome to my portfolio! This website showcases my skills, projects, and experie
 - HTML, CSS, JavaScript
 
 
+https://talha971.github.io/Portfolio/
+
 
